@@ -2,8 +2,8 @@
 
 ## Student Details
 - Name: Krishna Porwal
-- Registration Number: (your reg no)
-- Branch: B.Tech (your branch)
+- Registration Number:25BET10047
+- Branch: B.Tech CSE(Education Technology)
 - Year: 1st Year
 
 ##  Project Overview
